@@ -29,5 +29,4 @@ I'm a  Computer Engineer passionate about full-stack development and polyglot de
 ## 🌐 Connect with me
 www.linkedin.com/in/pradnya jekate
  
-[www.linkedin.com/in/sayali-paranjape]
 
