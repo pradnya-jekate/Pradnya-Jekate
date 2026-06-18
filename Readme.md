@@ -6,7 +6,7 @@ I'm a  Computer Engineer passionate about full-stack development and polyglot de
  
 - 🔭 I’m currently working on: [TFL Assesment]
 - 🌱 I’m learning: [C,C++,C#,JAVA,NodeJs]
-- 📫 How to reach me: [www.linkedin.com/in/pradnya jekate]
+- 📫 How to reach me: [https://www.linkedin.com/in/pradnya-kamble-5164361b5/]
 - ⚡ Fun fact: [Developer with an artistic mind]
  
 ## 🛠 Languages & Tools
