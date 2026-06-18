@@ -27,6 +27,6 @@ I'm a  Computer Engineer passionate about full-stack development and polyglot de
  
  
 ## 🌐 Connect with me
-www.linkedin.com/in/pradnya jekate
+https://www.linkedin.com/in/pradnya-kamble-5164361b5/
  
 
